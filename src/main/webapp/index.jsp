@@ -8,5 +8,10 @@
 </head>
 <body>
 	<h1>cowork</h1>
+	<a href="#">/cowork/godoohyun</a>
+	<h2><%= request.getContextPath() %></h2>
+	
+	
+
 </body>
 </html>
