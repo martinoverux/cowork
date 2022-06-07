@@ -7,7 +7,7 @@
 <title>cowork</title>
 </head>
 <body>
-	<h1>cowork</h1>	
+	<h1>cowork</h1>
 
 
 </body>
