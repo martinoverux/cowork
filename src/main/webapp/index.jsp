@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>cowork</h1>
+	<h2><%= request.getContextPath() %></h2>
 </body>
 </html>
