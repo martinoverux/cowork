@@ -5,9 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <title>cowork</title>
+<script src="a.js"></script>
 </head>
 <body>
 	<h1>cowork</h1>
+	<a href="#">/cowork/Spring</a>
 
 
 </body>
