@@ -7,7 +7,8 @@
 <title>cowork</title>
 </head>
 <body>
-	<h1>cowork</h1>
-	<a href="#">/cowork/helloworld</a>
+	<h1>cowork</h1>	
+
+
 </body>
 </html>
